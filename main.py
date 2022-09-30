@@ -2,6 +2,7 @@ import os
 import json, requests
 import discord
 from discord.ext import commands
+from keep_alive import keep_alive
 
 from DiscordBot.database.database import Database
 
@@ -92,10 +93,11 @@ def main():
 
             await ctx.send(embed=embed)
 
-    for item, value in os.environ.items():
-        print('{}: {}'.format(item, value))
+    @client.command(pass_context=True)
+    async def clear(ctx):
+        await ctx.channel.purge(limit=100)
 
-    client.run(os.getenv('MTAyNDM0MzcyNDA2ODcwNDI1Ng.GUJIn5.Vg51SW6lEXSeJUqbyBLcpO7NKs4J32kzio1PzE'))
+    client.run('MTAyNDM0MzcyNDA2ODcwNDI1Ng.GUJIn5.Vg51SW6lEXSeJUqbyBLcpO7NKs4J32kzio1PzE')
 
 
 if __name__ == '__main__':
