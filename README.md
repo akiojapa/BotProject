@@ -17,7 +17,7 @@ Instale os requisitos abaixo e siga as Instruções para executar o Projeto.
 - <a href =https://www.python.org/downloads/>Python</a>
 - <a href=https://git-scm.com/download>Git</a>
 - <a href=https://spring.io/tools>Wamp</a>
-- <a href=https://www.jetbrains.com/pycharm/download/#section=windows>PycharmCommunity</a>
+- <a href=https://www.jetbrains.com/pycharm/download/#section=windows >PycharmCommunity</a>
 
 
 
@@ -44,7 +44,7 @@ Ex: ../../../BotProject/> $python main.py
 
 `Entrando no servidor do bot`: <a href=https://discord.gg/CfHuT4Sb>ServidorTeste</a> 
 
-`Aproveite:` Agora só aproveitar o que o pode tem a fazer por você, divirta-se
+`Aproveite:` Agora só aproveitar o que o pode tem a fazer por você, divirta-se!!
 
 OBS: O convite do discord tem 7 dias de duração, o que significa que a partir do dia 30/09 não estará mais disponível!
 
