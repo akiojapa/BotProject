@@ -17,7 +17,7 @@ Instale os requisitos abaixo e siga as Instruções para executar o Projeto.
 - <a href =https://www.python.org/downloads/>Python</a>
 - <a href=https://git-scm.com/download>Git</a>
 - <a href=https://spring.io/tools>Wamp</a>
-- <a href=https://www.jetbrains.com/pycharm/download/#section=windows >PycharmCommunity</a>
+- <a href =https://www.jetbrains.com/pycharm/download/#section=windows/>PycharmCommunity</a>
 
 
 
